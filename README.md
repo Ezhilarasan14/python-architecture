@@ -22,3 +22,15 @@
 |-- README.md                # Project README file
 |-- main.py                  # Main entry point for the application
 ```
+Make sure to save this script with a .sh extension (e.g., create_project_structure.sh). After saving, make the script executable by running:
+
+```
+chmod +x create_project_structure.sh
+```
+
+Finally, execute the script to create the project structure:
+
+```
+./create_project_structure.sh
+```
+
