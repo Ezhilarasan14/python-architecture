@@ -1,4 +1,4 @@
-# python-project-architecture
+### python-project-architecture
 
 ```
 /my_project
@@ -34,3 +34,9 @@ Finally, execute the script to create the project structure:
 ./create_project_structure.sh
 ```
 
+### Creation of virtual environments
+
+```
+python -m venv venv
+source venv/bin/activate
+```
