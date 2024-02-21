@@ -4,6 +4,7 @@
 project_root="my_project"
 
 # Create project structure
+mkdir -p "$project_root/config"
 mkdir -p "$project_root/docs"
 mkdir -p "$project_root/tests"
 mkdir -p "$project_root/src/app/modules"
@@ -18,6 +19,8 @@ mkdir -p "$project_root/static"
 mkdir -p "$project_root/templates"
 
 # Create files
+touch "$project_root/config/config.yaml"
+touch "$project_root/config/settings.ini"
 touch "$project_root/src/app/__init__.py"
 touch "$project_root/README.md"
 touch "$project_root/main.py"
