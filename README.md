@@ -1,4 +1,4 @@
-# python-architecture
+# python-project-architecture
 
 ```
 /my_project
