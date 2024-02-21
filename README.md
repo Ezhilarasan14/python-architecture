@@ -2,6 +2,9 @@
 
 ```
 /my_project
+|-- /config                  # Configuation and setting files
+|   |-- config.yaml
+|   |-- settings.py
 |-- /docs                    # Documentation files
 |-- /tests                   # Unit and integration tests
 |-- /src
