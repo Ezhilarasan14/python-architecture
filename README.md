@@ -1,5 +1,6 @@
 # python-architecture
 
+```
 /my_project
 |-- /docs                    # Documentation files
 |-- /tests                   # Unit and integration tests
@@ -20,3 +21,4 @@
 |-- requirements.txt         # Project dependencies
 |-- README.md                # Project README file
 |-- main.py                  # Main entry point for the application
+```
